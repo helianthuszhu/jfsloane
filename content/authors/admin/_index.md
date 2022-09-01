@@ -1,44 +1,49 @@
 ---
-bio: My research interests include studying cognitive psychology, coding experiments, analyzing data, and computational modeling
+bio: My research interest is using multi-omics data to dissect the tumor heterogeneity to facilitate cancer treatment
 education:
   courses:
-  - course: Masters of Science in Experimental Psychology
-    institution: Syracuse University
-    year: 2017
-  - course: BA in Psychology
-    institution: University of Maryland
-    year: 2014
-email: "j.sloane@unsw.edu.au"
+  - course: Ph.D. in Biomedical Sciences (Cancer Genomics)
+    institution: the University of Hong Kong
+    year: 2022
+  - course: Master in Medicine
+    institution: Shanghai Jiao Tong Univeristy 
+    year: 2018
+  - course: Bachelor in Medicine
+    institution: Chongqing Medical University
+    year: 2015
+email: "zhuxqdoctor@163.com"
 highlight_name: false
 interests:
-- Cognitive psychology
-- Decision-making and memory
-- Data science
+- Cancer Genomics
+- Epigenetics
+- Tumor microenvironment
+- Immunotherapy
+- Gut microbiome 
 - Data analysis/statistics
-- Teaching and mentoring 
-- RLadies
 organizations:
-- name: University of New South Wales
+- name: Shanghai Jiao Tong University
   url: ""
-role: PhD Student in Cognitive Psychology
+role: PosDoc in Gastroenterology
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jfsloane
+  link: https://twitter.com/HelianthusZhu
 - icon: github
   icon_pack: fab
-  link: https://github.com/jennysloane  
+  link: https://github.com/helianthuszhu  
 - icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/in/jenny-sloane/  
+  link: https://www.linkedin.com/in/xiaoqiang-zhu-09372817a/ 
 
 superuser: true
-title: Jenny Sloane
+title: Xiaoqiang Zhu
 ---
 
-I'm a PhD student studying cognitive psychology at UNSW. I received my BA in psychology from the University of Maryland and my Masters of Science in experimental psychology from Syracuse University. My research interests include studying the effects of interruptions and time-pressure on decision-making. I have several years of experience as a teaching assistant for a range of psychology courses. I am also a member of the UNSW Women in Maths and Science Champions Program, where I participate in outreach activities to encourage and inspire women to pursue careers in math and science.
+I'm a PosDoc in Shanghai Jiao Tong University. I received my PhD degreee from the University of Hong Kong, my Master in Medicine from Shanghai Jiao Tong Univerisy and my Bachelor from Chongqing Medical University. My research interests are focusing on the dissection of tumor heterogeneity using multi-omics data genetic, transcriptomic, epigenetic, and
+proteomic, metabolic data, etc. Specifically, by interacting the data from single cell sequencing, gut microbiome, metabolites to illusrate the mechanisms of cancer development, progression and therapy, especially immunotherapy.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sloane_CV.pdf" "newtab" >}}academic CV{{< /staticref >}} and {{< staticref "media/Sloane_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/zhuxq_CV.pdf" "newtab" >}}academic CV{{< /staticref >}} and {{< staticref "media/zhuxq_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
